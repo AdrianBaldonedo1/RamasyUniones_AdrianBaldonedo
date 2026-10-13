@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola desde main modificado
+=======
+Hola desde segunda
+>>>>>>> segunda
