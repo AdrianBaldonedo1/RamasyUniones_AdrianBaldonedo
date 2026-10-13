@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hola desde main modificado
-=======
-Hola desde segunda
->>>>>>> segunda
+Hola desde main y segunda: conflicto resuelto.
